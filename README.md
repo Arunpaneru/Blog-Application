@@ -14,5 +14,6 @@ This is the repository that covers almost all basic features of an full-stack bl
 - **React JS**
 - **Tailwind CSS**
 - **Appwrite**
+- **tinyMCE**
 
 
